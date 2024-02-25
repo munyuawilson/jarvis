@@ -1,0 +1,14 @@
+print("hello world")
+print("*"*5)
+x = 1
+y = 2
+#variables
+students_count=100#interger
+rating=4.99#float
+#boolean expression
+is_published=False
+course="python programming"#string
+print (len(course))
+print(course[0])
+print(course[-1])
+print(course[0:3])
